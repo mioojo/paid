@@ -1,0 +1,18 @@
+body {
+    background: rgb(50,50,50);
+    background: linear-gradient(90deg, rgba(50,50,50,1) 0%, rgba(0,0,0,1) 100%);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+a:link, a:visited {
+    background-color: #ffffff;
+    color: rgb(33, 120, 186);
+    padding: 13px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(200, 200, 200);
+  }
